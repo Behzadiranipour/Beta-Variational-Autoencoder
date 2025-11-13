@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+openpyxl
+tensorflow==2.20.0
