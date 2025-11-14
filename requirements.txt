@@ -1,6 +1,9 @@
-numpy
+numpy==1.26.4
 pandas
 matplotlib
 scikit-learn
 openpyxl
 tensorflow==2.20.0
+shap
+xgboost
+seaborn
