@@ -9,6 +9,20 @@ This project implements a Beta Variational Autoencoder (Beta-VAE) for generating
 - `main_dataset_.xlsx`: Main dataset used for experiments.
 - `requirements.txt`: Python dependencies for running the notebook.
 
+📊 Dataset License & Usage
+
+The dataset provided in this repository is openly available for academic research, educational projects, and software development.
+
+    ✅ Free to use: You are welcome to copy, analyze, and build upon this dataset.
+
+    📌 Attribution required: Proper credit must be given by citing this GitHub repository and the author’s name in any publications or projects that use the dataset.
+
+    💼 Commercial use permitted: The dataset may also be used in commercial applications, provided clear acknowledgment of the original author is included.
+
+    🚫 No additional restrictions: Beyond attribution, there are no further limitations on usage.
+
+By using this dataset, you help support open science and collaborative innovation. 
+
 ##  Features
 
 - Beta-VAE architecture with adjustable beta parameter
@@ -34,3 +48,4 @@ Open main_VAE.ipynb in Jupyter Notebook or VS Code and run the cells to train th
 📧 Contact
 
 For questions or collaboration, feel free to reach out via GitHub Issues.
+
